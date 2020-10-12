@@ -23,9 +23,6 @@ Images obtained at: <a href="https://undraw.co/">Undraw</a>
 Create .env file for good functioning.<br><br>
 Backend Environment Variables:<br>
 JWT_KEY<br>
-POSTGRES_DB<br>
-POSTGRES_USER<br>
-POSTGRES_PASSWORD<br>
 ADM_EMAIL<br>
 ADM_PASSWORD<br>
 
