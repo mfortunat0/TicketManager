@@ -36,6 +36,14 @@ ADM_PASSWORD<br>
 
 <br>
 
+```bash
+#For YARN
+yarn
+
+#For NPM
+npm install
+```
+
 <h5>Running Project</h5>
 
 ```bash
