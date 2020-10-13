@@ -33,6 +33,8 @@ ADM_PASSWORD<br>
 
 <br>
 
+<h5>Install dependencies</h5>
+
 ```bash
 #For YARN
 yarn
