@@ -1,5 +1,11 @@
 <h1 align=center>TicketManager</h1>
 <h4 align=center>Fullstack APP</h4>
+<h5 align=center>Index screen</h5>
+<img src=".imgs/index.png"/>
+<h5 align=center>User screen</h5>
+<img src=".imgs/user.png"/>
+<h5 align=center>Suport screen</h5>
+<img src=".imgs/suport.png"/>
 <h5>Libries Backend:</h5>
 <a href="https://www.prisma.io/">Prisma</a> | <a href="https://www.typescriptlang.org/">Typescript</a> | <a href="https://jwt.io/">JWT</a> | <a href="https://www.npmjs.com/package/bcrypt">Bcrypt</a> | <a href="https://expressjs.com/pt-br/">Express</a> | <a href="https://eslint.org/">Eslint</a> | <a href="https://www.npmjs.com/package/ts-node-dev">Ts-node-dev</a>
 <br>
