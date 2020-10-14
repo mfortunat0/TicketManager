@@ -53,9 +53,11 @@ npm install
 
 ```bash
 #Running backend
-cd backend && docker-compose up
+cd backend
+yarn dev
+docker-compose up
 #Running frontend
-cd frontend && docker-compose up
+cd frontend && yarn dev
 ```
 
 Now <a href="http://localhost:3000">access localhost:3000 or click here</a>
